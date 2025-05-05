@@ -22,7 +22,7 @@ let marks:80|90|100
 marks = 80 //Valid
 marks = 90 //Valid
 marks = 100 //Valid
-// marks = 70 //Invalid
+//marks = 70 //Invalid
 console.log(marks);
 
 
